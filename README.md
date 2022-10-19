@@ -13,3 +13,12 @@ Elbow chart to find best fit for K-Means
 
 ![](ResourcesC/C2.png) 
 
+Tradeable table of cryptocurrencies
+
+![](ResourcesC/C3.png) 
+
+Scatter plot of tradeable Crypto
+
+![](ResourcesC/C4.png) 
+
+
