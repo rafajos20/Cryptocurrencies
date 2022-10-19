@@ -19,6 +19,6 @@ Tradeable table of cryptocurrencies
 
 Scatter plot of tradeable Crypto
 
-![](ResourcesC/C4.png) 
+![](ResourcesC/C5.png) 
 
 
