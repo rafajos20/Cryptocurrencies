@@ -9,3 +9,7 @@ Elbow chart to find best fit for K-Means
 
 ![](ResourcesC/C1.png) 
 
+3D Scatter
+
+![](ResourcesC/C2.png) 
+
